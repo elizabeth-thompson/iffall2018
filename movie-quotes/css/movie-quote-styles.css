@@ -1,0 +1,24 @@
+body {
+	background-color: #D3D3D3;
+	margin-left: 5px;
+	}	
+h1 {
+		color:#3CB371;
+		font-family:Impact, Charcoal, sans-serif;
+		font-size: 40px;
+		font-weight: normal;
+	}
+h2 {
+		color:#00008B;
+		font-family: "Courier New", Courier, monospace;
+		font-weight: normal;
+		font-size: 30px;
+		margin-left: 15px;
+	}
+p {
+		font-family:sans-serif;
+		margin-left: 25px;
+	}
+em {
+	color:#cc0000;
+}
