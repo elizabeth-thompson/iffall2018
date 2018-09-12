@@ -1,0 +1,21 @@
+body {
+	background-color: #6699CC;
+}
+p {
+	color: #F76B4D;
+	font-family:Gil-Sans, sans-serif;
+	font-size: 20px;
+}
+h1 {
+		color:#3CB371;
+		font-family:Impact, Charcoal, sans-serif;
+		font-size: 40px;
+		font-weight: normal;
+	}
+h2 {
+		color:#00008B;
+		font-family: Gil-Sans, sans-serif;
+		font-weight: normal;
+		font-size: 30px;
+		margin-left: 15px;
+	}
