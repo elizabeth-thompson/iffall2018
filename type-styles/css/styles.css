@@ -1,0 +1,99 @@
+
+body {
+	font-family: 'Merriweather', serif;
+	margin-left: 120px;
+	background-color: #FFF4B3;
+	margin-top: 50px;
+}
+h1 {
+	margin-left: -90px;
+	color: #30819c;
+	font-size: 100px;
+	line-height: 20px;
+	font-weight: 400;
+}
+h2 {
+	font-weight: normal;
+	font-size: 19px;
+	margin-left: -90px;
+	color: #e67e00;
+}
+h3 {
+	margin-left: -90px;
+	font-weight: 400;
+	font-size: 17px;
+	color: #e67e00;
+}
+#fontweight {
+	font-size: 20px;
+	color: #1e5162;
+}
+#fontstyle {
+	font-size: 20px;
+	color: #1e5162;
+}
+#letterspacing {
+	font-size: 20px;
+	color: #1e5162;
+}
+#texttransform {
+	font-size: 20px;
+	color: #1e5162;
+}
+#textdecoration {
+	font-size: 20px;
+	color: #1e5162;
+}
+.identify {
+	font-size: 16px;
+	color: #4fabc9;
+}
+#normal {
+	font-size: 22px;
+	color: #FFA500;
+}
+#bold {
+	font-size: 22px;
+	font-weight: bold;
+	color: #FFA500;
+}
+#italic {
+	font-size: 22px;
+	font-style: italic;
+	color: #FFA500;
+}
+#uppercase {
+	font-size: 22px;
+	text-transform: uppercase;
+	color: #FFA500;
+}
+#capitalize {
+	font-size: 22px;
+	text-transform: capitalize;
+	color: #FFA500;
+}
+#strikethrough {
+	font-size: 22px;
+	text-decoration: line-through;
+	color: #FFA500;
+}
+#underline {
+	font-size: 22px;
+	text-decoration: underline;
+	color: #FFA500;
+}
+#tightspacing {
+	font-size: 22px;
+	letter-spacing: -2px;
+	color: #FFA500;
+}
+#mediumspacing {
+	font-size: 22px;
+	letter-spacing: 5px;
+	color: #FFA500;
+}
+#loosespacing {
+	font-size: 22px;
+	letter-spacing: 12px;
+	color: #FFA500;
+}
