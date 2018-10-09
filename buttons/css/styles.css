@@ -1,0 +1,159 @@
+ #btn_facebook {
+ 				display: block;
+				width: 100px;
+				height: 100px;
+				box-sizing: border-box;
+				border-radius: 50px;
+				margin: auto;
+				margin-top: 50px;
+				padding-top: 8px;
+				background-color: #fff;
+				color: #3b5998;
+				text-align: center;
+				font-size: 100px;
+ 			}
+#btn_facebook:hover {
+				color: #8b9dc3; }
+
+#btn_oldnavy {
+				display: block;
+
+}
+
+#btn_lyft {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+				padding: 8px 16px;
+				border-radius: 4px;
+				background-color: #fff;
+				color: #ff00bf;
+				font-family: 'Ubuntu', sans-serif;
+				font-size: 30px;
+				font-weight: bold;
+				text-transform: uppercase;
+				text-decoration: none;
+				letter-spacing: -2px;
+}
+#btn_lyft:hover {
+				color: #fff;
+				background-color: #ff00bf;
+			}
+#btn_craigslist {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: #551A8B;
+				font-family: serif;
+				font-size: 30px;
+				text-decoration: none;
+				letter-spacing: -2px;
+				text-decoration: underline;
+}
+#btn_craigslist:hover {
+				color: #fff;
+				background-color: #551A8B;
+}
+
+#btn_apple {
+				display: block;
+				width: 100px;
+				height: 100px;
+				box-sizing: border-box;
+				border-radius: 50px;
+				margin: auto;
+				margin-top: 45px;
+				padding-top: 8px;
+				background-color: #fff;
+				color: #7d7d7d ;
+				text-align: center;
+				font-size: 100px;
+}
+#btn_apple:hover {
+				text-shadow: 4px 4px 6px rgba(150, 150, 150, 1);
+}
+#btn_cocacola {
+				display: inline-block;
+				width: 100px;
+				height: 100px;
+				box-sizing: border-box;
+				border-radius: 50px;
+				margin: auto;
+				margin-top: 75px;
+				padding-top: 8px;
+				background-color: #FF0000;
+				color: #fff;
+				text-align: center;
+				font-size: 60px;
+			}
+
+ #btn_colacola:hover {
+				background-color: #fff;
+				border: 2px solid #000;
+				color: #000;
+			}
+
+ #btn_instagram {
+ 				display: inline-block;
+				width: 100px;
+				height: 100px;
+				box-sizing: border-box;
+				border-radius: 50px;
+				margin: auto;
+				margin-top: 50px;
+				padding-top: 8px;
+				background-color: grey;
+				color: #000000;
+				text-align: center;
+				font-size: 100px;
+				background-size: 
+				background-position: ;
+ 			}
+#btn_instagram:hover {
+					/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#515bd4+0,8134af+22,dd2a7b+53,feda77+73,f58529+100 */
+				background: #515bd4; /* Old browsers */
+				background: -moz-linear-gradient(-45deg, #515bd4 0%, #8134af 22%, #dd2a7b 53%, #feda77 73%, #f58529 100%); /* FF3.6-15 */
+				background: -webkit-linear-gradient(-45deg, #515bd4 0%,#8134af 22%,#dd2a7b 53%,#feda77 73%,#f58529 100%); /* Chrome10-25,Safari5.1-6 */
+				background: linear-gradient(135deg, #515bd4 0%,#8134af 22%,#dd2a7b 53%,#feda77 73%,#f58529 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+				filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#515bd4', endColorstr='#f58529',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+				color: #fff;
+			}
+#btn_mollyjogger {
+				font-family: 'Satisfy', cursive;
+				display: inline-block;
+				margin:auto;
+				margin-top: 90px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: #334d00;
+				font-size: 40px;
+				text-decoration: none;
+				letter-spacing: 2px;
+			}
+#btn_mollyjogger:hover {
+				color: #d9ecab;
+				background-color: #fff;
+				font-weight: bold;
+			}
+#btn_hsn {
+				display: block;
+				width: 100px;
+				height: 100px;
+				box-sizing: border-box;
+				border-radius: 70px;
+				margin: auto;
+				margin-top: 75px;
+				padding-top: 8px;
+				background-color: #008ae6;
+				color: #fff;
+				text-decoration: none;
+				text-transform: uppercase;
+				text-align: center;
+				font-family: 'Syncopate', sans-serif;
+				font-size: 30px;
+			}
+#btn_hsn:hover {
+
+}
