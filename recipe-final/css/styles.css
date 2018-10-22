@@ -1,0 +1,67 @@
+body{
+	background-color:  #b3e6ff;
+}
+h1 {
+	text-align: center;
+	font-weight: 700;
+	font-size: 70px;
+	font-family: 'Amatic SC', cursive;
+}
+h2 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	text-align: center;
+}
+img {
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h4 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 15px;
+}
+
+#Yield {
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+	text-align: center;
+}
+#source {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-transform: uppercase;
+	font-size: 15px;
+	margin-left: 8px;
+}
+h3 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-transform: uppercase;
+	font-size: 28px;
+	margin-left: 8px;
+}
+.ingredients{
+	font-family: 'Open Sans Condensed', cursive;
+	padding-left: 15px;
+	font-size: 21px;
+}
+.directions{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 22px;
+	padding: 21px;
+}
+#enjoy {
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 80px;
+}
+.steps{
+	font-family: 'Amatic SC', sans-serif;
+	font-size: 30px;
+	padding: 8px;
+}
+img {
+	margin: 0px;
+}
