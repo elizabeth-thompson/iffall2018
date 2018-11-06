@@ -1,0 +1,161 @@
+a {
+	display: block; /* turn the inline element into a box */
+	position: fixed; /* position the anchor fixed to the viewport */
+	top: 0; /* have the top edge of the anchor touch the the top of the viewport */
+	bottom: 0;  /* have the bottom edge of the anchor touch the the bottom of the viewport */
+	left: 0;  /* have the left edge of the anchor touch the the left of the viewport */
+	right: 0;  /* have the right edge of the anchor touch the the right of the viewport */
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+}
+
+body {
+	background-color: #1262af;
+	width: 100%;
+	margin: auto;
+}
+
+p {
+	font-family: balboa, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 55pt;
+	position: absolute;
+	right: 180px;
+	bottom: 55px;
+	color: white;
+	font-weight: 400px;
+	text-align: right;
+}
+
+img {
+	width: 62%;
+	position: relative;
+	margin-left: -250px;
+	top: 18px;
+}
+
+@media (max-width: 2740px) {
+	p {
+		bottom: 75px;
+	}
+}
+
+@media (max-width: 1331px) {
+	p {
+		right: 160px;
+	}
+}
+
+@media (max-width: 1230px) {
+	p {
+		bottom: 65px;
+	}
+}
+
+@media (max-width: 1210px) {
+	p {
+		bottom: 75px;
+	}
+}
+
+@media (max-width: 1180px) {
+	p {
+		bottom: 85px;
+	}
+}
+
+@media (max-width: 1150px) {
+	p {
+		bottom: 95px;
+		right: 140px;
+	}
+	img {
+		margin-left: -240px;
+		top: 25px;
+	}
+}
+
+@media (max-width: 1120px) {
+	p {
+		bottom: 105px;
+	}
+}
+
+@media (max-width: 1100px) {
+	p {
+		bottom: 115px;
+	}
+}
+
+@media (max-width: 1090px) {
+	p {
+		bottom: 125px;
+	}
+}
+
+@media (max-width: 1070px) {
+	p {
+		bottom: 135px;
+	}
+}
+
+@media (max-width: 1060px) {
+	p {
+		bottom: 145px;
+	}
+}
+
+@media (max-width: 1050px) {
+	p {
+		bottom: 155px;
+	}
+}
+
+@media (max-width: 1040px) {
+	p {
+		bottom: 165px;
+	}
+}
+
+@media (max-width: 1030px) {
+	p {
+		bottom: 175px;
+	}
+}
+
+@media (max-width: 1010px) {
+	p {
+		bottom: 195px;
+	}
+}
+
+@media (max-width: 1000px) {
+	p {
+		bottom: 205px;
+	}
+}
+
+@media (max-width: 990px) {
+	p {
+		bottom: 215px;
+	}
+}
+@media (max-width: 980px) {
+	p {
+		bottom: 235px;
+	}
+}
+
+@media (max-width: 860px) {
+	img {
+		width: 65%;
+	}
+}
+
+@media (max-width: 545px) {
+	p {
+		bottom: -400px;
+	}
+}
+
+
