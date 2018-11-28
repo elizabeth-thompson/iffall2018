@@ -1,0 +1,406 @@
+body {
+	margin: 0;
+}
+
+section.navbar {
+	display: block;
+	position: fixed;
+	background-color: rgba(255,255,255, 0.9);
+	height: 340px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+a#MoMA{
+	display: block; /* turn the inline element into a box */
+	position: fixed; /* position the anchor fixed to the viewport */
+	left: 0;
+	right: 0;
+	margin-top: 101px;
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	color: rgba(0,0,0,1);
+	text-align: center;
+	text-decoration: none;
+	font-size: 128px;
+	opacity: 100%;
+	letter-spacing: 1px;
+}
+
+a#realMoMA{
+	display: block; /* turn the inline element into a box */
+	position: fixed; /* position the anchor fixed to the viewport */
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 101px;
+	margin-right: 50px;
+	right: 0;
+	font-size: 20px;
+}
+a#realMoMA:hover {
+				text-decoration: underline;
+			}
+
+li a#History{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	margin: auto;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+
+}
+a#History:hover {
+				text-decoration: underline;
+			}
+
+li a#Artworks{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+
+}
+a#Artworks:hover {
+				text-decoration: underline;
+			}
+
+
+li a#Attendance{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+}
+a#Attendance:hover {
+				text-decoration: underline;
+			}
+
+
+li a#KeyPeople {
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+
+}
+a#KeyPeople:hover {
+				text-decoration: underline;
+			}
+
+li a#Sources{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+}
+a#Sources:hover {
+				text-decoration: underline;
+			}
+body {
+	margin: 0;
+}
+
+section.navbar {
+	display: block;
+	position: fixed;
+	background-color: rgba(255,255,255, 0.9);
+	height: 340px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+a#MoMA{
+	display: block; /* turn the inline element into a box */
+	position: fixed; /* position the anchor fixed to the viewport */
+	left: 0;
+	right: 0;
+	margin-top: 101px;
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	color: rgba(0,0,0,1);
+	text-align: center;
+	text-decoration: none;
+	font-size: 128px;
+	opacity: 100%;
+	letter-spacing: 1px;
+}
+
+a#realMoMA{
+	display: block; /* turn the inline element into a box */
+	position: fixed; /* position the anchor fixed to the viewport */
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 101px;
+	margin-right: 50px;
+	right: 0;
+	font-size: 20px;
+}
+a#realMoMA:hover {
+				text-decoration: underline;
+			}
+
+li a#History{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	margin: auto;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+
+}
+a#History:hover {
+				text-decoration: underline;
+			}
+
+li a#Artworks{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: underline;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+
+}
+a#Artworks:hover {
+				text-decoration: underline;
+			}
+
+
+li a#Attendance{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+}
+a#Attendance:hover {
+				text-decoration: underline;
+			}
+
+
+li a#KeyPeople {
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+
+}
+a#KeyPeople:hover {
+				text-decoration: underline;
+			}
+
+li a#Sources{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+	margin-top: 274px;
+	font-size: 25px;
+}
+a#Sources:hover {
+				text-decoration: underline;
+			}
+
+
+section.maincontent {
+	display: block;
+	position: relative;
+	background-color: #ffffff;
+	height: 4000px;
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    z-index: 10;
+    left: 0;
+    top: 340px;
+    right: 0;
+}
+#gallerytop {
+	margin: auto;
+}
+
+#gallery {
+	margin: auto;
+}
+
+h3 {
+	text-align: center;
+	line-height: 25px;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 18pt;
+}
+
+#text {
+	width: 80%;
+	margin: auto;
+	text-align: left;
+	line-height: 25px;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	}
+
+section.footer {
+	display: block;
+	position: relative;
+	background-color: #000000;
+	height: 400px;
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    opacity: 9%;
+    z-index: 90;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+p#footerheader {
+	color: #ffffff;
+	z-index:95;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+}
+
+p#footertext {
+	color: #ffffff;
+	z-index: 95;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+}
+
+
+p#intro{
+	text-align: left;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+section.footer {
+	display: block;
+	position: relative;
+	background-color: #000000;
+	height: 400px;
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    opacity: 9%;
+    z-index: 90;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+p#footerheader {
+	color: #ffffff;
+	z-index:95;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	padding-top: 8%;
+}
+
+p#footertext {
+	color: #ffffff;
+	z-index: 95;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+}
