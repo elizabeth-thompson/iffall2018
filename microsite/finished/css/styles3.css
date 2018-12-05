@@ -1,0 +1,209 @@
+body {
+	margin: 0;
+}
+
+section.navbar {
+	display: block;
+	position: fixed;
+	background-color: rgba(255,255,255, 0.9);
+	height: 310px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+a#MoMA{
+	display: block; /* turn the inline element into a box */
+	position: fixed; /* position the anchor fixed to the viewport */
+	left: 0;
+	right: 0;
+	margin-top: 101px;
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	color: rgba(0,0,0,1);
+	text-align: center;
+	text-decoration: none;
+	font-size: 110px;
+	opacity: 100%;
+	letter-spacing: 1px;
+}
+
+a#realMoMA{
+	display: block; /* turn the inline element into a box */
+	position: fixed; /* position the anchor fixed to the viewport */
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 71px;
+	margin-right: 50px;
+	right: 0;
+	font-size: 18px;
+}
+a#realMoMA:hover {
+				text-decoration: underline;
+			}
+
+li a#History{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	margin: auto;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 250px;
+	font-size: 22px;
+
+}
+a#History:hover {
+				text-decoration: underline;
+			}
+
+li a#Artworks{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 250px;
+	font-size: 22px;
+}
+
+a#Artworks:hover {
+				text-decoration: underline;
+			}
+
+li a#Attendance{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+	text-decoration: underline;
+	color: #000000;
+	margin-top: 250px;
+	font-size: 22px;
+}
+a#Attendance:hover {
+				text-decoration: underline;
+			}
+
+
+li a#KeyPeople {
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+	margin-top: 250px;
+	font-size: 22px;
+
+}
+a#KeyPeople:hover {
+				text-decoration: underline;
+			}
+
+li a#Sources{
+	z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+	margin-top: 250px;
+	font-size: 22px;
+}
+a#Sources:hover {
+				text-decoration: underline;
+			}
+
+
+section.maincontent {
+	display: block;
+	position: relative;
+    width: 100%;
+    height: 2000px;
+    padding: 0;
+    box-sizing: border-box;
+    z-index: 10;
+    left: 0;
+    top: 310px;
+    right: 0;
+}
+
+#whitebox {
+	background-color: white;
+    padding: 25px;
+    margin: 25px;
+	z-index: 10;
+	margin: auto;
+	text-align: center; 
+	width: 50%;
+	height: 1400px;
+	line-height: 30px;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+
+}
+
+section.footer {
+	display: block;
+	position: relative;
+	background-color: #000000;
+	height: 400px;
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    opacity: 9%;
+    z-index: 90;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+p#footerheader {
+	color: #ffffff;
+	z-index:95;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	padding-top: 8%;
+}
+
+p#footertext {
+	color: #ffffff;
+	z-index: 95;
+	font-family: franklin-gothic-urw, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+}
